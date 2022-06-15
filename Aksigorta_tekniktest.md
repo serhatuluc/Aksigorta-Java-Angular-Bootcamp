@@ -32,7 +32,8 @@ public class elemeSorusu {
     }
 }
 ```
-<p>Kullanıcıdan X değerini alan bu program X değerine bağlı olarak farklı işlemler yapmaktadır. X değeri sıfırdan farklı ise bu değeri T değişkeni ile toplamaktadır. Burada T kullanıcıdan alınan X değerlerinin toplamını temsil etmektedir. N ise kullanıcıdan alınan kaç tane sıfır olması dışında X değeri aldığını hesaplar. X değeri sıfır olarak verildiğinde ise döngüden çıkıp verilen X değerlerinin ortalaması Y değişkeni içerisinde kaydedilip kullanıcıya çıktı olarak sunuluyor.
+<p>Kullanıcıdan X değerini alan bu program X değerine bağlı olarak farklı işlemler yapmaktadır. X değeri sıfırdan farklı ise bu değeri T değişkeni ile toplamaktadır. Burada T kullanıcıdan alınan X değerlerinin toplamını temsil etmektedir. N ise kullanıcıdan sıfır olması dışında kaç tane X değeri aldığını hesaplar. X değeri sıfır olarak verildiğinde ise döngüden çıkıp verilen X değerlerinin ortalaması Y değişkeni içerisinde kaydedilip kullanıcıya çıktı olarak sunuluyor.
+Örnek: 4, 5, 6, 7, 8, 0 girildi. 0 da döngüden çıkıldı.  T = 4 + 5 + 6 + 7  + 8 = 30 . N = 5, ve sonuç olarak Y = 6 çıktısı oluşur.
 </p>
 
 
