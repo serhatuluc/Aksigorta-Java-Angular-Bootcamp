@@ -89,6 +89,7 @@ public static void main(String[] args){
 
 
    Scanner inp = new Scanner(System.in);
+   System.out.print("Please enter weight on earth : ");
    double W = inp.nextDouble();
 
    for (Map.Entry<String, Double> set : planets.entrySet()) {
