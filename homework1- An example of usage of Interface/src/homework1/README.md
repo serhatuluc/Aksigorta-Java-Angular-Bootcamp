@@ -1,0 +1,2 @@
+<h3>Call Center Application with Interfaces</h3>
+<p>The application simulates a basic Call Center which directs the call and gives information. Three different interfaces are created where two of them, checkUser and ShareInfo, extends CallDirecting. </p>
